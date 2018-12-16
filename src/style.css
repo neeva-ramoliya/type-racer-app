@@ -1,0 +1,59 @@
+.app-container {
+    width: 80%;
+    margin: auto;
+    font-family: monospace;
+}
+.app-title {
+    text-align: center
+}
+.timer-container {
+    margin: auto;
+    font-weight: bold;
+}
+
+.start-button {
+    outline: none;
+	padding: 5px;
+	border-style: none;
+	cursor: pointer;
+	font-size: 18px;
+	border-radius: 5px;
+	background:blue;
+	border: 2px solid transparent;
+	color: #fff;
+	font-weight: 100;
+}
+.original-text-container {
+     font-size: 16px;
+     margin: 20px;
+    font-family: monospace;
+    font-weight: bold; 
+
+    margin: 0 auto;
+	width: 500px;
+	background: #fff;
+	text-align: center;
+	border: 2px solid #C0392B;
+	border-radius: 10px;
+	padding: 20px;
+	line-height: 1.5;
+}
+
+
+.usertyping-area {
+    margin: 20px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.user-input {
+    width: 100%;
+}   
+
+.correct-input {
+    color: green
+}
+
+.incorrect-input {
+    color: red
+}
